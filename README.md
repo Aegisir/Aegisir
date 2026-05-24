@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Aegisir</h1>
 
-<!--
-**Aegisir/Aegisir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  UniMelb / Computer Vision / Computer Graphics / VFX / Real Analysis
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+  <img
+    src="https://count.kjchmc.cn/get/@Aegisir?theme=gelbooru"
+    alt="Profile Views"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-stats-alpha.vercel.app/api?username=Aegisir&cc=FFFFFF&tc=808080&ic=000000&bc=FFFFFF"
+    alt="GitHub Stats"
+  />
+  (This is my Alt Acc)
+</p>
